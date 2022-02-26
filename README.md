@@ -8,6 +8,7 @@ https://colab.research.google.com/drive/11vdS9dpcZz2Q2efkOjcwyax4oob6N40G#scroll
 
 https://colab.research.google.com/drive/1TBo4saFn1BCSfgXsmREFrUl3zSQFg6CC
 
+https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb
 
 https://jxmo.notion.site/The-Weird-and-Wonderful-World-of-AI-Art-b9615a2e7278435b98380ff81ae1cf09
 
