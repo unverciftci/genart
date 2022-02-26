@@ -16,3 +16,5 @@ https://colab.research.google.com/github/pytti-tools/pytti-notebook/blob/main/py
 
 
 https://github.com/lucidrains/nuwa-pytorch
+
+https://github.com/isl-org/MiDaS
