@@ -34,4 +34,6 @@ https://colab.research.google.com/drive/1hcDA5skuzk2IoC0wkQam4i-5k7c7iR1T?usp=sh
 
 https://github.com/wtliao/text2image
 
+https://colab.research.google.com/github/pytti-tools/frame-interpolation/blob/main/PyTTI_Tools_FiLM-colab.ipynb
+
 https://colab.research.google.com/drive/11vdS9dpcZz2Q2efkOjcwyax4oob6N40G
