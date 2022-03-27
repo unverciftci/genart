@@ -49,3 +49,5 @@ https://colab.research.google.com/drive/1hcDA5skuzk2IoC0wkQam4i-5k7c7iR1T?usp=sh
 https://multimodal.art/
 
 https://colab.research.google.com/drive/1hcDA5skuzk2IoC0wkQam4i-5k7c7iR1T?usp=sharing
+
+https://colab.research.google.com/drive/1PAPb2PiGHxnPwF2JaYKFnE063vXJPRfu?usp=sharing
