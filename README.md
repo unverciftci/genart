@@ -23,6 +23,7 @@ https://github.com/isl-org/MiDaS
 
 https://github.com/Aleph-Alpha/magma
 
+https://github.com/thegeniverse/geniverse
 
 https://github.com/google-research/frame-interpolation
 
