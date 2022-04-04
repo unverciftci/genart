@@ -1,5 +1,7 @@
 # genart
 
+https://github.com/CompVis/latent-diffusion
+
 https://peakd.com/hive-177949/@kaliyuga/kaliyugas-library-of-ai-google-colab-notebooks
 
 https://ljvmiranda921.github.io/notebook/2021/08/11/vqgan-list/
