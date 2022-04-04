@@ -25,6 +25,8 @@ https://github.com/Aleph-Alpha/magma
 
 https://github.com/thegeniverse/geniverse
 
+https://github.com/pbaylies/Augmented_CLIP
+
 https://github.com/google-research/frame-interpolation
 
 https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb
