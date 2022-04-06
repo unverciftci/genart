@@ -2,6 +2,8 @@
 
 https://github.com/CompVis/latent-diffusion
 
+https://colab.research.google.com/github/multimodalart/latent-diffusion-notebook/blob/main/Latent_Diffusion_LAION_400M_model_text_to_image.ipynb
+
 https://peakd.com/hive-177949/@kaliyuga/kaliyugas-library-of-ai-google-colab-notebooks
 
 https://ljvmiranda921.github.io/notebook/2021/08/11/vqgan-list/
