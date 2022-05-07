@@ -1,5 +1,6 @@
 # genart
 
+https://colab.research.google.com/github/pytti-tools/pytti-notebook/blob/main/pyttitools-PYTTI.ipynb
 
 https://github.com/jina-ai/dalle-flow
 
