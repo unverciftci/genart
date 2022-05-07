@@ -1,6 +1,5 @@
 # genart
 
-https://www.amazon.science/blog/how-aws-uses-graph-neural-networks-to-meet-customer-needs
 
 https://github.com/CompVis/latent-diffusion
 
