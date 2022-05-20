@@ -2,6 +2,14 @@
 
 https://clipasso.github.io/clipasso/
 
+https://clipasso.github.io/clipasso/
+
+https://github.com/eps696/aphantasia
+
+https://colab.research.google.com/drive/1peZ98vBihDD9A1v7JdH5VvHDUuW5tcRK?usp=sharing
+
+https://colab.research.google.com/github/Sxela/DiscoDiffusion-Warp/blob/main/Disco_Diffusion_v5_2_Warp.ipynb
+
 https://colab.research.google.com/github/pytti-tools/pytti-notebook/blob/main/pyttitools-PYTTI.ipynb
 
 https://pytti-tools.github.io/pytti-book/intro.html
