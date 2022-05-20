@@ -1,5 +1,7 @@
 # genart
 
+https://clipasso.github.io/clipasso/
+
 https://colab.research.google.com/github/pytti-tools/pytti-notebook/blob/main/pyttitools-PYTTI.ipynb
 
 https://pytti-tools.github.io/pytti-book/intro.html
